@@ -1,0 +1,8 @@
+.svn
+.tmp
+.download
+output
+.*.swp
+.*.swo
+log
+go.sum
